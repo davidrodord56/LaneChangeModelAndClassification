@@ -641,3 +641,4 @@ par(mar = c(7, 4, 2, 2) + 0.2)
 barplot(sort(model1$importance,decreasing = TRUE),las=2, sub="Variables", main = "Importance of variables for model 1")
 barplot(sort(model2$importance,decreasing = TRUE),las=2, sub="Variables", main = "Importance of variables for model 2")
 
+#Model Ends HERE.
